@@ -1,4 +1,3 @@
-%md
 
 To create a comprehensive README file for the project, let's break down the structure. Here's a draft based on typical elements included in a README file. You'll need to fill in specific details based on the actual code and functionality:
 
