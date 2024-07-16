@@ -5,6 +5,16 @@
 
 This project focuses on predicting CpG sites using Natural Language Processing (NLP) techniques. The repository includes model files, Jupyter notebooks, and scripts for deploying the model using Gradio and Streamlit.
 
+```bash
+Here we have a simple problem, given a DNA sequence (of N, A, C, G, T), count the number of CpGs in the sequence (consecutive CGs).
+
+We have defined a few helper functions / parameters for performing this task.
+
+We need you to build a LSTM model and train it to complish this task in PyTorch.
+
+A good solution will be a model that can be trained, with high confidence in correctness.
+```
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
