@@ -1,0 +1,5 @@
+torch==2.0.1
+numpy==1.24.3
+gradio==3.16.2
+streamlit==1.24.1
+notebook==7.0.1
